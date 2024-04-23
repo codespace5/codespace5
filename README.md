@@ -1,4 +1,5 @@
 ### Hi there 👋
+AI/ML | FullStact Developer
 
 <!--
 **codespace5/codespace5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
